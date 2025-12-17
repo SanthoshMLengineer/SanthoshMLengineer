@@ -9,6 +9,3 @@ Experience in performing Descriptive, Predictive, and Prescriptive Analytics by 
 learning algorithms, advanced analytical techniques, and NLP.
 
 - Completed my internship tenure at Let's Grow More, contributing to the team's success with the successful delivery of two significant data science projects.
-
-<h3 align="left">Connect with me:</h3>
-
